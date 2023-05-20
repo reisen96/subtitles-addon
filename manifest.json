@@ -1,0 +1,12 @@
+{
+  "id": "org.stremio.subtitlez",
+  "version": "1.0.0",
+  "description": "Subtitles addon",
+  "name": "Subtitlez",
+  "resources": [
+    "subtitles"
+  ],
+  "types": [],
+  "catalogs": [],
+  "idPrefixes": []
+}
