@@ -1,8 +1,8 @@
 {
-  "id": "org.stremio.subtitlez",
+  "id": "org.subtitlesonfly",
   "version": "1.0.0",
-  "description": "Subtitles addon",
-  "name": "Subtitlez",
+  "description": "Subtitles addon for stremio",
+  "name": "Subtitles On Fly",
   "resources": [
     "subtitles"
   ],
